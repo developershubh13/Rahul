@@ -1,0 +1,14 @@
+C:\Users\Shubham\source\repos\Rahul\Rahul\bin\Debug\netcoreapp2.2\Rahul.deps.json
+C:\Users\Shubham\source\repos\Rahul\Rahul\bin\Debug\netcoreapp2.2\Rahul.runtimeconfig.json
+C:\Users\Shubham\source\repos\Rahul\Rahul\bin\Debug\netcoreapp2.2\Rahul.runtimeconfig.dev.json
+C:\Users\Shubham\source\repos\Rahul\Rahul\bin\Debug\netcoreapp2.2\Rahul.dll
+C:\Users\Shubham\source\repos\Rahul\Rahul\bin\Debug\netcoreapp2.2\Rahul.pdb
+C:\Users\Shubham\source\repos\Rahul\Rahul\obj\Debug\netcoreapp2.2\Rahul.csprojAssemblyReference.cache
+C:\Users\Shubham\source\repos\Rahul\Rahul\obj\Debug\netcoreapp2.2\Rahul.csproj.CoreCompileInputs.cache
+C:\Users\Shubham\source\repos\Rahul\Rahul\obj\Debug\netcoreapp2.2\Rahul.RazorAssemblyInfo.cache
+C:\Users\Shubham\source\repos\Rahul\Rahul\obj\Debug\netcoreapp2.2\Rahul.RazorAssemblyInfo.cs
+C:\Users\Shubham\source\repos\Rahul\Rahul\obj\Debug\netcoreapp2.2\Rahul.AssemblyInfoInputs.cache
+C:\Users\Shubham\source\repos\Rahul\Rahul\obj\Debug\netcoreapp2.2\Rahul.AssemblyInfo.cs
+C:\Users\Shubham\source\repos\Rahul\Rahul\obj\Debug\netcoreapp2.2\Rahul.RazorTargetAssemblyInfo.cache
+C:\Users\Shubham\source\repos\Rahul\Rahul\obj\Debug\netcoreapp2.2\Rahul.dll
+C:\Users\Shubham\source\repos\Rahul\Rahul\obj\Debug\netcoreapp2.2\Rahul.pdb
